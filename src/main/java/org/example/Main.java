@@ -30,7 +30,7 @@ public class Main {
         ctgl.put("Лук", 200);
         myMarket.setCatalog(ctgl);
 
-        //Корзина покупателя состоящяя из того, что он хочет купить
+        //Корзина покупателя состоящая из того, что он хочет купить
         ArrayList<String> bucket = new ArrayList<>();
         bucket.add("Шампанское");
         bucket.add("Сыр");
